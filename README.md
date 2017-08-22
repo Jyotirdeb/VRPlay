@@ -4,7 +4,7 @@ VR Play
 <img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" alt="Get it on Google Play" height="80"/></a>
 <br>
 <br>
-<a href="https://github.com/Jyotirdeb/SpeakDict/blob/master/app/app-release.apk" target="_blank">
+<a href="https://github.com/Jyotirdeb/VRPlay/blob/master/app/app-release.apk" target="_blank">
 <img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Logo.png" alt="Get it on GitHub" height="80"/></a>
 <br>
 <br>
